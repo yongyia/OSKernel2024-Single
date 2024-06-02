@@ -1,0 +1,18 @@
+bash-5.1.16/
+
+# cargo config
+os/Cargo.lock
+user/Cargo.lock
+
+# IDE config
+.idea/
+.vscode/
+
+# kernel build
+os/target/
+
+# user programs build
+user/target/
+
+# kernel build
+os.bin
